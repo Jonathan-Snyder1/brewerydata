@@ -7,7 +7,7 @@ This repository contains an end-to-end data project that demonstrates how to:
 3. Explore and analyze the dataset
 4. Build interactive visualizations using Altair and Vega-Lite
 
-The project highlights a modern, reproducible data workflow that goes from raw web data to interactive, insight-driven visualizations.
+The project highlights a reproducible data workflow that goes from raw web data to interactive, insight-driven visualizations.
 
 ---
 
