@@ -48,5 +48,5 @@ The dataset contains information about breweries in the United States, including
 
 ---
 
-## 📁 Repository Structure
+
 
