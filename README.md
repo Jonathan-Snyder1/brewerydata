@@ -46,6 +46,11 @@ The dataset contains information about breweries in the United States, including
 - Tooltips, filtering, and cross-filtering
 - Reproducible Jupyter-based workflow
 
+## How to run
+- clone repo or download zip file
+- install depedencies
+- 
+
 ---
 
 
