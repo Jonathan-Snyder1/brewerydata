@@ -48,8 +48,9 @@ The dataset contains information about breweries in the United States, including
 
 ## How to run
 - clone repo or download zip file
-- install depedencies
-- 
+- install dependencies
+- run the scraper (optional since data already included)
+- run the visualization for altair/vega lite
 
 ---
 
